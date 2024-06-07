@@ -27,3 +27,4 @@ cal | View the calendar
 whereis | See the exact location
 df | Get the details of the file system
 wc | Number of words, characters, lines
+sudo | Allows users to run programs with security privileges of another user
